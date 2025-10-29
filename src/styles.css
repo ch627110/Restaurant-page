@@ -1,4 +1,25 @@
 /* styles.css */
+* {
+    font-family: fantasy;
+	font-weight: bold;
+}
+
 body {
 	background-color: slategray;
+	color: goldenrod;
+
+	justify-items: center;
+	text-align: center;
+}
+
+div#content {
+	width: 30em;
+}
+
+div#content img {
+	width: 30em;
+}
+
+div#content p {
+	text-align: center;
 }
